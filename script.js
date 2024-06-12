@@ -70,8 +70,8 @@ let chpes = [
       let b = parseInt(po.textContent);
       b += 100000;
       po.textContent = b;
-  /*  dayCodeInput.value = "";
-      dayCode = 0; */
+    dayCodeInput.value = "";
+      dayCode = 0;
     } else {
       dayCodeInput.value = "";
     }
